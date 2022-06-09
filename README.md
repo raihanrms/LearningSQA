@@ -8,8 +8,8 @@
 ---
 
 **Free courses**
-- [X] Basics of SQA [Link](https://www.mygreatlearning.com/academy/courses/5444842/43771#?utm_source=share_with_friends) [Certificate](https://olympus1.mygreatlearning.com/course_certificate/IQMVYWVU)
 - [X] Becoming a QA Engineer by yourself [Link](https://www.youtube.com/watch?v=4kkvkOAFPI0)
+- [X] Basics of SQA [Link](https://www.mygreatlearning.com/academy/courses/5444842/43771#?utm_source=share_with_friends) [Certificate](https://olympus1.mygreatlearning.com/course_certificate/IQMVYWVU)
 ---
 **Notes**
 
