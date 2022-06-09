@@ -2,8 +2,8 @@
 #### Most of the materials will be added as I progress
 
 **Articles**
-- Journey to SQA [Link](https://www.linkedin.com/pulse/ongoing-journey-software-quality-assurancesqa-sarowar-alam-saidi/)
-- Road-map for SQA [Link](https://www.linkedin.com/pulse/road-map-become-sqa-base-sarowar-alam-saidi/)
+> Journey to SQA [Link](https://www.linkedin.com/pulse/ongoing-journey-software-quality-assurancesqa-sarowar-alam-saidi/)
+> Road-map for SQA [Link](https://www.linkedin.com/pulse/road-map-become-sqa-base-sarowar-alam-saidi/)
 > SQA Fundamental [Part-I](https://www.linkedin.com/pulse/sqa-fundamental-part-i-sarowar-alam-saidi/)
 ---
 **Free courses**
@@ -11,7 +11,8 @@
 - [ ] More In-depth knowledge [Link]()
 ---
 **Notes**
+_Will be added soon!_
 
 ---
 **Quizlet**
-
+_Will be added soon!_
