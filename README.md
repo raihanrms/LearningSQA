@@ -10,9 +10,8 @@
 - [X] Basics of SQA [Link](https://www.mygreatlearning.com/academy/courses/5444842/43771#?utm_source=share_with_friends) [Certificate](https://olympus1.mygreatlearning.com/course_certificate/IQMVYWVU)
 - [ ] More In-depth knowledge [Link]()
 ---
-**Notes**  
-_Will be added soon!_
+**Notes**
 
 ---
-**Quizlet**  
-_Will be added soon!_
+**Quizlet**
+
