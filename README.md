@@ -1,11 +1,15 @@
 # SQA Roadmap
 #### Most of the materials will be added as I progress
 
-**Articles**
-1. Journey to SQA [Link](https://www.linkedin.com/pulse/ongoing-journey-software-quality-assurancesqa-sarowar-alam-saidi/)
-2. Road-map for SQA [Link](https://www.linkedin.com/pulse/road-map-become-sqa-base-sarowar-alam-saidi/)
-3. SQA Fundamental [Part-I](https://www.linkedin.com/pulse/sqa-fundamental-part-i-sarowar-alam-saidi/)
----
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+  **Articles**
+  1. Journey to SQA [Link](https://www.linkedin.com/pulse/ongoing-journey-software-quality-assurancesqa-sarowar-alam-saidi/)
+  2. Road-map for SQA [Link](https://www.linkedin.com/pulse/road-map-become-sqa-base-sarowar-alam-saidi/)
+  3. SQA Fundamental [Part-I](https://www.linkedin.com/pulse/sqa-fundamental-part-i-sarowar-alam-saidi/)
+  
+  </details>
 
 **Must Read**
 1. QA Basics [Link](https://codemify.com/qabasics)
