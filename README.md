@@ -9,6 +9,7 @@
 
 **Must Read**
 1. QA Basics [Link](https://codemify.com/qabasics)
+---
 
 **Free courses**
 - [X] Becoming a QA Engineer by yourself [Link](https://www.youtube.com/watch?v=4kkvkOAFPI0)
