@@ -4,9 +4,13 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;Articles</b></summary>
   <br/>
+
 - Journey to SQA [Link](https://www.linkedin.com/pulse/ongoing-journey-software-quality-assurancesqa-sarowar-alam-saidi/)
+
 - Road-map for SQA [Link](https://www.linkedin.com/pulse/road-map-become-sqa-base-sarowar-alam-saidi/)
+
 - SQA Fundamental [Part-I](https://www.linkedin.com/pulse/sqa-fundamental-part-i-sarowar-alam-saidi/)
+
 </details>
 
 **Must Read**
