@@ -8,9 +8,10 @@
 ---
 
 ✨**Must Read**
-- [X] QA Basics [Link](https://codemify.com/qabasics)
-- [X] Bug reports [Link](https://codemify.com/bugreports)
-- [ ] Testing types and methods [Link](https://codemify.com/testingtypes)
+- [X] QA Basics [Link](https://web.archive.org/web/20220611182316/https://codemify.com/qabasics)
+- [X] Bug reports [Link](https://web.archive.org/web/20220611182330/https://codemify.com/bugreports)
+- [ ] Testing types and methods [Link](https://web.archive.org/web/20220611183307/https://codemify.com/testingtypes)
+- [ ] 
 ---
 
 ✨**Free courses**
