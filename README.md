@@ -8,7 +8,8 @@
 ---
 
 ✨**Must Read**
-1. QA Basics [Link](https://codemify.com/qabasics)
+- [X] QA Basics [Link](https://codemify.com/qabasics)
+- [X] Bug reports [Link](https://codemify.com/bugreports)
 ---
 
 ✨**Free courses**
