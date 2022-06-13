@@ -26,8 +26,7 @@
 **Testing some HTML-CSS-JS Obfuscation**
 <body>
     <div>
-        <h2>Hello World</h2>
-        <style>
+         <style>
             body {
                 font-family: 'Poppins', sans-serif;
                 display: flex;
@@ -47,11 +46,13 @@
             }
             h2:hover {
                 color: #fff;
-                text-shadow: 0 0 5px #03e9f4;
+                text-shadow: 
+                    0 0 5px #03e9f4;
                     0 0 25px #03e9f4;
                     0 0 50px #03e9f4;
                     0 0 100px #03e9f4;
             }
         </style>
+        <h2>Hello World</h2>
     </div>
 </body>
