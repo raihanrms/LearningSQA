@@ -1,5 +1,6 @@
 # SQA Roadmap
 > Most of the materials will be added as I progress
+> The roadmap will be updated as I progress
 
 ✨**Articles** 
 1. Journey to SQA [Link](https://web.archive.org/web/20220612193417/https://www.linkedin.com/pulse/ongoing-journey-software-quality-assurancesqa-sarowar-alam-saidi/)
