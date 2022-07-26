@@ -1,5 +1,7 @@
 # SQA Roadmap
 ✨100 days of SQA [Link](/100-Days-SQA.md)
+✨ Quality Assurance [Nav](/QA.md)
+---
 
 > Most of the materials will be added as I progress.
 ---
@@ -10,24 +12,10 @@
 3. SQA Fundamental [Part-I](https://web.archive.org/web/20220612193748/https://www.linkedin.com/pulse/sqa-fundamental-part-i-sarowar-alam-saidi/)
 ---
 
-✨**Must Read**
-- [X] QA Basics [Link](https://web.archive.org/web/20220611182316/https://codemify.com/qabasics)
-- [X] Bug reports [Link](https://web.archive.org/web/20220611182330/https://codemify.com/bugreports)
-- [X] Testing types and methods [Link](https://web.archive.org/web/20220611183307/https://codemify.com/testingtypes)
-- [X] Test Cases [Link](https://web.archive.org/web/20220611183312/https://codemify.com/testcases)
-- [X] API [Link](https://web.archive.org/web/20220612163638/https://codemify.com/whatisapi)
-- [X] API Testing with postman [Link](https://web.archive.org/web/20220612164147/https://codemify.com/api_test_postman)
-- [X] How to test API [Link](https://web.archive.org/web/20220726093501/https://codemify.com/how_to_test_api)
-- [X] API Status Codes [Link](https://web.archive.org/web/20220726093637/https://codemify.com/api_status_codes)
-- [X] Automation with WebdriveIO [Link](https://codemify.com/aut_webdriver)
----
-
 ✨**Free courses**
 - [X] Becoming a QA Engineer by yourself [Link](https://www.youtube.com/watch?v=4kkvkOAFPI0)
 - [X] Basics of SQA [Link](https://www.mygreatlearning.com/academy/courses/5444842/43771#?utm_source=share_with_friends) [Certificate](https://olympus1.mygreatlearning.com/course_certificate/IQMVYWVU)
 ---
-
-
 
 ✨**Interview questions**
 
