@@ -17,5 +17,12 @@
 - [X] Basics of SQA [Link](https://www.mygreatlearning.com/academy/courses/5444842/43771#?utm_source=share_with_friends) [Certificate](https://olympus1.mygreatlearning.com/course_certificate/IQMVYWVU)
 ---
 
+✨**Tools**
+> Will move this to a separate page soon.
+|No.| Name | Link |
+|---|---|---|
+| 1 | Jira | [Link](https://university.atlassian.com/student/path/815443-jira-fundamentals?utm_source=facebook&utm_medium=paid-social&utm_campaign=utm_campaign%3DP%3Auni-ondemand*O%3Auniversity*H%3Afy22*I%3Aimc-atlasuniversity*A%3Aimage*&utm_content=P%3Aatlassian%7CO%3Auniversity%7CV%3Afacebook%7CG%3Aallg%7CL%3Aen%7CF%3Aaware%7CT%3Ainterest%7CI%3Aimc-atlasuniversity%7CA%3Aimage%7CD%3Aalld%7CU%3Alookalike_newsfeed-jirafundamentals-na-b) |
+---
+
 ✨**Interview questions**
 
