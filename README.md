@@ -15,13 +15,20 @@
 - [X] Test Cases [Link](https://web.archive.org/web/20220611183312/https://codemify.com/testcases)
 - [X] API [Link](https://web.archive.org/web/20220612163638/https://codemify.com/whatisapi)
 - [X] API Testing with postman [Link](https://web.archive.org/web/20220612164147/https://codemify.com/api_test_postman)
-- [ ] _More modules coming!_
+- [ ] How to test API [Link](https://web.archive.org/web/20220726093501/https://codemify.com/how_to_test_api)
+- [ ] API Status Codes [Link](https://web.archive.org/web/20220726093637/https://codemify.com/api_status_codes)
+- [ ] Automation with WebdriveIO []()
 ---
+
+
 
 ✨**Free courses**
 - [X] Becoming a QA Engineer by yourself [Link](https://www.youtube.com/watch?v=4kkvkOAFPI0)
 - [X] Basics of SQA [Link](https://www.mygreatlearning.com/academy/courses/5444842/43771#?utm_source=share_with_friends) [Certificate](https://olympus1.mygreatlearning.com/course_certificate/IQMVYWVU)
 ---
-✨**Interviews**
----
+
 ✨**100 days of SQA**
+
+
+✨**[Interview questions](/100-Days-SQA.md)**
+
