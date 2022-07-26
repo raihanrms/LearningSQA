@@ -1,6 +1,7 @@
 # SQA Roadmap
 > Most of the materials will be added as I progress.
 
+✨**100 days of SQA** [CLick](/100-Days-SQA.md)
 
 ✨**Articles** 
 1. Journey to SQA [Link](https://web.archive.org/web/20220612193417/https://www.linkedin.com/pulse/ongoing-journey-software-quality-assurancesqa-sarowar-alam-saidi/)
@@ -27,7 +28,6 @@
 - [X] Basics of SQA [Link](https://www.mygreatlearning.com/academy/courses/5444842/43771#?utm_source=share_with_friends) [Certificate](https://olympus1.mygreatlearning.com/course_certificate/IQMVYWVU)
 ---
 
-✨**[100 days of SQA](/100-Days-SQA.md)**
 
 
 ✨**Interview questions**
