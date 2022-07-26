@@ -1,8 +1,8 @@
 # SQA Roadmap
 > Most of the materials will be added as I progress.
 
-✨100 days of SQA [Link](/100-Days-SQA.md)  
-✨Quality Assurance [Nav](/QA.md)
+✨[100 days of SQA](/100-Days-SQA.md)  
+✨[Quality Assurance](/QA.md)
 
 ---
 
