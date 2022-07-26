@@ -27,8 +27,8 @@
 - [X] Basics of SQA [Link](https://www.mygreatlearning.com/academy/courses/5444842/43771#?utm_source=share_with_friends) [Certificate](https://olympus1.mygreatlearning.com/course_certificate/IQMVYWVU)
 ---
 
-✨**100 days of SQA**
+✨**[100 days of SQA](/100-Days-SQA.md)**
 
 
-✨**[Interview questions](/100-Days-SQA.md)**
+✨**Interview questions**
 
