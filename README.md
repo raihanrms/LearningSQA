@@ -2,6 +2,7 @@
 > Most of the materials will be added as I progress.
 
 ✨**100 days of SQA** [CLick](/100-Days-SQA.md)
+---
 
 ✨**Articles** 
 1. Journey to SQA [Link](https://web.archive.org/web/20220612193417/https://www.linkedin.com/pulse/ongoing-journey-software-quality-assurancesqa-sarowar-alam-saidi/)
@@ -20,8 +21,6 @@
 - [ ] API Status Codes [Link](https://web.archive.org/web/20220726093637/https://codemify.com/api_status_codes)
 - [ ] Automation with WebdriveIO []()
 ---
-
-
 
 ✨**Free courses**
 - [X] Becoming a QA Engineer by yourself [Link](https://www.youtube.com/watch?v=4kkvkOAFPI0)
