@@ -3,8 +3,6 @@
 
 > Most of the materials will be added as I progress.
 
-
-
 ✨**Articles** 
 1. Journey to SQA [Link](https://web.archive.org/web/20220612193417/https://www.linkedin.com/pulse/ongoing-journey-software-quality-assurancesqa-sarowar-alam-saidi/)
 2. Road-map for SQA [Link](https://web.archive.org/web/20220612193600/https://www.linkedin.com/pulse/road-map-become-sqa-base-sarowar-alam-saidi/)
@@ -18,9 +16,9 @@
 - [X] Test Cases [Link](https://web.archive.org/web/20220611183312/https://codemify.com/testcases)
 - [X] API [Link](https://web.archive.org/web/20220612163638/https://codemify.com/whatisapi)
 - [X] API Testing with postman [Link](https://web.archive.org/web/20220612164147/https://codemify.com/api_test_postman)
-- [ ] How to test API [Link](https://web.archive.org/web/20220726093501/https://codemify.com/how_to_test_api)
-- [ ] API Status Codes [Link](https://web.archive.org/web/20220726093637/https://codemify.com/api_status_codes)
-- [ ] Automation with WebdriveIO []()
+- [X] How to test API [Link](https://web.archive.org/web/20220726093501/https://codemify.com/how_to_test_api)
+- [X] API Status Codes [Link](https://web.archive.org/web/20220726093637/https://codemify.com/api_status_codes)
+- [X] Automation with WebdriveIO [Link](https://codemify.com/aut_webdriver)
 ---
 
 ✨**Free courses**
