@@ -1,4 +1,5 @@
-## ✨ Web Testing / QA
+## ✨ Web Testing
+
 > All of the modules are linked for learning.
 
 - [X] QA Basics [Link](https://web.archive.org/web/20220611182316/https://codemify.com/qabasics)

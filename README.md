@@ -1,8 +1,10 @@
 # SQA Roadmap
 > Most of the materials will be added as I progress.
 
+✨[Entry Level QA](/EntryQA.md)
 ✨[100 days of SQA](/100-Days-SQA.md)  
-✨[Quality Assurance](/QA.md)
+✨[Web Testing](/Web-Testing.md)
+✨[Interview Questions]()
 
 ---
 
